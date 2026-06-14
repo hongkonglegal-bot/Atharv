@@ -1,0 +1,23 @@
+ProjectAtharv/
+
+│
+├── index.html
+├── about.html
+├── goals.html
+├── dashboard.html
+├── projects.html
+├── blog.html
+├── books.html
+├── football.html
+├── mit.html
+├── gratitude.html
+├── adventures.html
+├── family.html
+├── timeline.html
+├── css/
+│      style.css
+├── js/
+│      app.js
+├── assets/
+│      images/
+│      videos/
